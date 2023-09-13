@@ -1,1 +1,1 @@
-print ("Hello Wortld")
+print ("Hello")
